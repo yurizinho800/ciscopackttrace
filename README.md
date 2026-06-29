@@ -7,7 +7,7 @@ topologias estrela
 🎥 Confira também meu vídeo demonstrando os projetos: [link do vídeo]
 
 ## Exemplos de projetos
-- 🌐 Topologia de rede simples com 2 PCs e 1 switch
+- 🌐 Topologia de rede simples com 3 PCs, 1 switch e 3 servidor
 - 📶 Configuração de roteador com DHCP
 - 🔒 Rede com VLANs e segurança básica
 
