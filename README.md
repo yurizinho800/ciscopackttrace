@@ -4,7 +4,7 @@ topologias estrela
 
 📡 Este repositório reúne minhas criações durante os estudos de Redes de Computadores.  
 💻 Todos os projetos foram feitos no Cisco Packet Tracer.  
-🎥 Confira também meu vídeo demonstrando os projetos: [link do vídeo]
+🎥 Confira também meu vídeo demonstrando os projetos: [https://youtu.be/v4uvaqSXGEw]
 <img width="1440" height="900" alt="Captura de Tela (151)" src="https://github.com/user-attachments/assets/c883965c-6602-432d-ad49-55ca76b3280b" />
 
 ## Exemplos de projetos
